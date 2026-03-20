@@ -346,13 +346,13 @@ const projects = [
     technologies: ["PHP", "Laravel", "MySQL"],
     demo: "https://www.portodesantos.com.br/"
   },
-  // {
-  //   id: 3,
-  //   name: "Nova intranet do porto de santos -  Em desenvolvimento...",
-  //   description: "O projeto tem como objetivo reconstruir a intranet do Porto de Santos, preservando suas funcionalidades e características consolidadas. A nova versão proporcionará uma experiência mais moderna, intuitiva e alinhada às necessidades atuais dos usuários.",
-  //   technologies: ["Vue.js", "Laravel","MySQL","TypeScript", "Tailwind CSS"],
-  //   //demo: "#"
-  // },
+  {
+    id: 3,
+    name: "Nova intranet do porto de Santos",
+    description: "O projeto tem como objetivo reconstruir a intranet do Porto de Santos, preservando suas funcionalidades e características consolidadas. A nova versão proporcionará uma experiência mais moderna, intuitiva e alinhada às necessidades atuais dos usuários.",
+    technologies: ["Vue.js", "Laravel","MySQL","TypeScript", "Tailwind CSS"],
+    demo: "https://intra.portodesantos.com.br/"
+ },
   // {
   //   id: 4,
   //   name: "Novo portal do cliente e fornecedor - Em desenvolvimento...",
